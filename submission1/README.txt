@@ -5,7 +5,7 @@ Link to unlisted YouTube video:
 -
 
 Public link to the slide (Anyone on the internet can view without login):
--
+https://docs.google.com/presentation/d/1YrEIuYkyFPNLot2EsgXHnUhbTmD2H0DFGMZUyDc3ZgI/edit?usp=sharing
 
 Project title:
 Breast Cancer Segmentation using gradCAM
