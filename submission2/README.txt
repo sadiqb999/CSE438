@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 -
 
 Public link to the slide (Anyone on the internet can view without login):
--
+https://docs.google.com/presentation/d/1Wo9hQCXhaP9H0vLCdEZ2Rvm1f2d0tT_JUp9nl7UltR0/edit?usp=sharing
 
 Paper title:
 Pre-Trained Convolutional Neural Networks for Breast Cancer Detection Using Ultrasound Images
