@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/7455347936vqtytbrhdnsg
 
 Unlisted YouTube video:
-
+https://youtu.be/MPZ7u_77K64
 
 Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Breast Cancer Segmentation using grad-CAM
+Breast Cancer Segmentation using Grad-CAM
 
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/cfycbgyctrmf
