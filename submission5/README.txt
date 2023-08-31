@@ -5,25 +5,25 @@ Unlisted YouTube video:
 https://youtu.be/MPZ7u_77K64
 
 Conference submitted paper / paper submission / login Link:
-
+https://cmt3.research.microsoft.com/ICMLA2023/Submission/Summary/625
 
 Paper title:
-Breast Cancer Segmentation using Grad-CAM
+Breast Cancer Segmentation using grad-CAM
 
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/cfycbgyctrmf
 
 Paper submission date (to workshop/conference):
-31st August 2023
+September 5, 2023
 
 Paper submission ID: (received) from conference/workshop
-
+625
 
 Conference Name:
-2023 IEEE 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA 2023)
+22nd International Conference on Machine Learning and Applications
 
 Conference URL:
-http://www.icaica.org/
+https://www.icmla-conference.org/icmla23/keydates.html
 
 Group Number:
 8
