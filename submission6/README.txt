@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/ICMLA2023/Submission/Summary/625
 
 Paper title:
-Breast Cancer Segmentation using grad-CAM
+U-Net: Breast Cancer Semantic Segmentation on Ultrasound Images using Grad-CAM
 
 Paper presentation (anyone can view without login):
 https://www.overleaf.com/read/cfycbgyctrmf
